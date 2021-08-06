@@ -1,0 +1,18 @@
+[
+  {
+    "accountId": "885084780",
+    "session": "NORMAL",
+    "duration": "DAY",
+    "orderType": "LIMIT",
+    "legs": [
+      {
+        "orderLegType": "OPTION",
+        "assetType": "OPTION",
+        "symbol": "TSLA_011521C613",
+        "instruction": "BUY_TO_OPEN",
+        "quantity": "1"
+      }
+    ],
+    "orderStrategyType": "SINGLE"
+  }
+]
